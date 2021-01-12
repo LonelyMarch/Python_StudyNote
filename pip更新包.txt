@@ -1,0 +1,6 @@
+查看可更新包
+pip list  --outdated --format=columns
+
+更新所有包
+pip install pip-review
+pip-review --auto
