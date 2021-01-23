@@ -4,7 +4,7 @@
 '''
 @Author: LonelyMarch
 @LastEditors: LonelyMarch
-@LastEditTime: 2021-01-23 00:01:46
+@LastEditTime: 2021-01-23 08:43:34
 @FilePath: /Python_StudyNote/demo.py
 @version: 
 @Descripttion: 
@@ -19,3 +19,4 @@ class foo:
     @staticmethod
     def foo():
         pass
+
