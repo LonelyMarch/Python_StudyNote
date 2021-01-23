@@ -4,7 +4,7 @@
 '''
 @Author: LonelyMarch
 @LastEditors: LonelyMarch
-@LastEditTime: 2021-01-23 08:43:34
+@LastEditTime: 2021-01-23 09:13:31
 @FilePath: /Python_StudyNote/demo.py
 @version: 
 @Descripttion: 
@@ -20,3 +20,5 @@ class foo:
     def foo():
         pass
 
+
+print()

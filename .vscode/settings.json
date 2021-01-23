@@ -1,8 +1,9 @@
 {
-	"editor.defaultFormatter": "ms-python.python",
 	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"editor.formatOnSave": true,
-	"editor.formatOnType": true
+	"editor.formatOnType": true,
+	"python.formatting.autopep8Path": "C:\\Users\\Administrator\\AppData\\Roaming\\Python\\Python38\\Scripts\\autopep8.exe",
+	"editor.defaultFormatter": "ms-python.python"
 }
